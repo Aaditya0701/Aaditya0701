@@ -4,7 +4,12 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Aaditya0701/Aaditya0701/blob/8d3978e4c4dbba27ac0c3b7d0512acecb65c9bd3/coding-freak%20(1).gif">
+<br>
+<div align="center">
+  <img src="#" alt="Centered Image">
+</div>
 
+<br>
 ## 🙋‍♂️
 - 💻 I’m currently working on something cool :wink: ;
 
